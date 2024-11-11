@@ -2,13 +2,18 @@
 
 <!-- Acerca de mí -->
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=30px></picture> Sobre mí
+<div>
+  <h2 style="margin: 5px 10px;"
+    <picture>
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=30px>
+  </picture> Sobre mí
+  </h2>
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width=300px></picture>
 <p> Soy desarrollador Frontend en búsqueda de nuevos desafíos. Me gradué como Técnico Superior en Informática, donde adquirí sólidos conocimientos en desarrollo web, robótica e informática, con un enfoque en tecnologías modernas de frontend y experiencia básica en backend. </p>
 🌱 En constante aprendizaje: Siempre busco mantenerme actualizado y expandir mis conocimientos en nuevas tecnologías y buenas prácticas en el desarrollo web.
-<br> </br>
 
-## Habilidades
+</div><br></br>
+<h2 style="margin: 5px 10px;"> Habilidades </h2>
 
 <h4> Tecnologías </h4>
 <span>
