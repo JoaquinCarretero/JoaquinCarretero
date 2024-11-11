@@ -9,10 +9,11 @@
   </picture> Sobre mí
   </h2>
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width=300px></picture>
-<p> Soy desarrollador Frontend en búsqueda de nuevos desafíos. Me gradué como Técnico Superior en Informática, donde adquirí sólidos conocimientos en desarrollo web, robótica e informática, con un enfoque en tecnologías modernas de frontend y experiencia básica en backend. </p>
-🌱 En constante aprendizaje: Siempre busco mantenerme actualizado y expandir mis conocimientos en nuevas tecnologías y buenas prácticas en el desarrollo web.
+<p> Soy desarrollador Frontend en búsqueda de nuevos desafíos. Me gradué como Técnico Superior en Informática, donde adquirí sólidos conocimientos en desarrollo web, robótica e informática, con un enfoque en tecnologías modernas de frontend y experiencia básica en backend. </p> 
+<p> 🌱 En constante aprendizaje: Siempre busco mantenerme actualizado y expandir mis conocimientos en nuevas tecnologías y buenas prácticas en el desarrollo web. </p>
+  <p>🚀 Comprometido con la excelencia: Mi objetivo es desarrollar experiencias digitales que sean funcionales, intuitivas y accesibles para todos los usuarios.</p>
 
-</div><br></br>
+</div>
 <h2 style="margin: 5px 10px;"> Habilidades </h2>
 
 <h4> Tecnologías </h4>
